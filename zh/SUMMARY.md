@@ -1,5 +1,6 @@
 # Summary
 
+* [导语](README.md)
 * [Intro](intro.md)
 * [What is GitHub?](what_is_github.md)
 * [Create a Repository](create_a_repository.md)
