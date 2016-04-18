@@ -1,10 +1,9 @@
-# Intro
+# 介绍
 
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+通过本课程，你将学到以下技能：
 
-You’ll learn how to:
 
--    Create and use a repository
--    Start and manage a new branch
--    Make changes to a file and push them to GitHub as commits
--    Open and merge a pull request
+-    建立和使用仓库（repository）
+-    建立和管理分支（branch）
+-    通过提交（commits）来讲文件的变化推送到GitHub
+-    建立和合并一个拉拽请求（Pull Request）

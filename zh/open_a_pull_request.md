@@ -3,7 +3,7 @@
 
 Nice edits! Now that you have changes in a branch off of ```master```, you can open a *pull request*.
 
-Pull Requests are the heart of collaboration on GitHub. When you open a *pull request*, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show *diffs*, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+Pull Requests 是GitHub中写作的核心. When you open a *pull request*, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show *diffs*, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
 
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 
@@ -15,14 +15,12 @@ You can even open pull requests in your own repository and merge them yourself. 
 *Click on the image for a larger version*
 Step 	Screenshot
 
-1. Click the
-Pull Request tab, then from the Pull Request page, click the green New pull request button. ![pr-tab](pr-tab.gif)
+1. 点击“Pull Request”标签，在此页面点击绿色的“**New pull request**” 按钮。 ![pr-tab](pr-tab.gif)
 
-2. Select the branch you made, readme-edits, to compare with master (the original). 	![branch](pick-branch.png)
-3. Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. 	![diff](diff.png)
-4. When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. 	![create-pull](create-pr.png)
-5. Give your pull request a title and write a brief description of your changes. 	![pr-form](pr-form.png)
+2. 选择建立的分支： ```readme-edits```, 与```master``` 分支(the original)比较. 	![branch](pick-branch.png)
+3. 审视在比较页面的更改，确认就是需要提交的内容![diff](diff.png)
+4. 确认修改内容后，点击绿色大按钮 **Create Pull Request **. 	![create-pull](create-pr.png)
+5. 为你的pull request起个名字，并加上简短描述。![pr-form](pr-form.png)
+6. 最后，点击、 **Create pull request!**
 
-When you’re done with your message, click **Create pull request!**
-
-> Tip: You can use [emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji) and [drag and drop images and gifs](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/) onto comments and Pull Requests.
+> 小提示: 在提交和Pull Request时，可以使用[emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji) 和 [drag and drop images and gifs](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/) 。
