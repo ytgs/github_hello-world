@@ -5,7 +5,7 @@
 * [GitHub介绍](what_is_github.md)
 * [建立仓库（ Repository）](create_a_repository.md)
 * [建立分支（Branch）](create_a_branch.md)
-* [Make a Commit](make_a_commit.md)
+* [完成一次提交（Commit）](make_a_commit.md)
 * [Open a Pull Request](open_a_pull_request.md)
 * [Merge Pull Request](merge_pull_request.md)
 * [Celebrate!](celebrate.md)
