@@ -7,4 +7,5 @@
 * [Make a Commit](make_a_commit.md)
 * [Open a Pull Request](open_a_pull_request.md)
 * [Merge Pull Request](merge_pull_request.md)
+* Celebrate!
 
