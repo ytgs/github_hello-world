@@ -8,5 +8,5 @@
 * [完成一次提交（Commit）](make_a_commit.md)
 * [启动拉拽请求（Pull Request）](open_a_pull_request.md)
 * [合并拉拽请求（Pull Request）](merge_pull_request.md)
-* [Celebrate!](celebrate.md)
+* [结束](celebrate.md)
 
