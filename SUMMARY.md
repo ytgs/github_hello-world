@@ -1,6 +1,6 @@
 # Summary
 
-* Intro
+* [Intro](intro.md)
 * What is GitHub?
 * Create a Repository
 * Create a Branch
