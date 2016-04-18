@@ -1,8 +1,8 @@
-# Celebrate!
+# 完成了!
 
 
 
-By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! :tada: :octocat: :zap:
+通过完成本课程，你已经学会了如何建立项目、在Github.com上完成拉拽请求（pull request）。
 
 Here’s what you accomplished in this tutorial:
 
