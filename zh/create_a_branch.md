@@ -26,14 +26,14 @@ Branches accomplish similar goals in GitHub repositories.
 
 Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our ```master``` (production) branch. When a change is ready, they merge their branch into ```master```.
 ## 建立新分支
-1.    Go to your new repository ```hello-world```.
-2.    Click the drop down at the top of the file list that says **branch: master**.
-3.    Type a branch name, ```readme-edits```, into the new branch text box.
-4.    Select the blue **Create branch** box or hit “Enter” on your keyboard.
+1.   进入仓库 ```hello-world```.
+2.   点击顶部标识**branch: master**的下拉菜单 。
+3.   输入分支名称：```readme-edits```.
+4.   选中蓝色的 **Create branch** ，按回车（“Enter”）键.
 
     
 
 ![branch gif](readme-edits.gif)
 
 
-Now you have two branches, ```master``` and ```readme-edits```. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
+现在，你有了两个分支```master``` 和 ```readme-edits```. 目前他们是一样的，但不久我们就会在新分支中进行变更修改.
