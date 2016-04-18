@@ -1,7 +1,7 @@
 # Summary
 
 * [Intro](intro.md)
-* What is GitHub?
+* [What is GitHub?](what_is_github.md)
 * Create a Repository
 * Create a Branch
 * Make a Commit
