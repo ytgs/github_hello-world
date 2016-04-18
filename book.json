@@ -1,7 +1,8 @@
 {
     "plugins": [
         "gtoc",
-        "language-picker"
+        "language-picker",
+        "search-pro"
     ],
     "pluginsConfig": {}
 }
