@@ -1,6 +1,4 @@
-# Create a Branch
-
-# Step 2. Create a Branch
+# 第二步：建立分支（Branch）
 
 **Branching** is the way to work on different versions of a repository at one time.
 
@@ -27,8 +25,7 @@ Have you ever saved different versions of a file? Something like:
 Branches accomplish similar goals in GitHub repositories.
 
 Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our ```master``` (production) branch. When a change is ready, they merge their branch into ```master```.
-## To create a new branch
-
+## 建立新分支
 1.    Go to your new repository ```hello-world```.
 2.    Click the drop down at the top of the file list that says **branch: master**.
 3.    Type a branch name, ```readme-edits```, into the new branch text box.
