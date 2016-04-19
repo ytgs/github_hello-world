@@ -3,31 +3,31 @@
 
 
 Git是一个开源的分布式版本控制系统，方便你在笔记本或桌面端进行GitHub的操作，这个备忘单总结了常用的Git命令行指令，以便快速查询。
-安装Git
+## 安装Git
 
 GitHub提供了包含图形界面的桌面客户端，通过客户端可以完成大部分常用的仓库操作，同时可以自动更新Git的命令行版本，以适应新的场景。
-GitHub for Windows
 
-http://windows.github.com
-GitHub for Mac
+### GitHub for Windows
+  [http://windows.github.com]()
+### GitHub for Mac
+  [http://mac.github.com]()
 
-http://mac.github.com
 GitHub的Linux和POSIX版本可以在官方的Git SCM网站上获取。
-Git 全平台版
-
-http://git-scm.com
-配置工具
+### Git 全平台版
+[http://git-scm.com]()
+## 配置工具
 
 对所有本地仓库的用户信息进行配置
 
+```
 $ git config --global user.name "[name]"
-
+```
 对你的commit操作设置关联的用户名
-
+```
 $ git config --global user.email "[email address]"
-
+```
 对你的commit操作设置关联的邮箱地址
-创建仓库
+## 创建仓库
 
 创建一个新的仓库或者从一个现有的链接获取仓库
 
@@ -36,7 +36,7 @@ $ git init [project-name]
 创建一个本地的仓库，并设置名字
 
 $ git clone [url]
-更改
+## 更改
 
 检查已有的编辑并执行commit操作
 
@@ -63,7 +63,7 @@ $ git reset [file]
 $ git commit -m"[descriptive message]"
 
 将文件快照永久地记录在版本历史中
-批量更改
+## 批量更改
 
 命名一系列commit以及合并已完成的工作
 
@@ -86,7 +86,7 @@ $ git merge [branch-name]
 $ git branch -d [branch-name]
 
 删除特定的分支
-重构文件
+## 重构文件
 
 重定位并移除版本文件
 
@@ -101,7 +101,7 @@ $ git rm --cached [file]
 $ git mv [file-original] [file-renamed]
 
 改变文件名并准备commit
-停止追踪
+## 停止追踪
 
 不包含临时文件和路径
 
@@ -115,7 +115,7 @@ $ git mv [file-original] [file-renamed]
 $ git ls-files --other --ignored --exclude-standard
 
 列出所有项目中忽略的文件
-保存临时更改
+## 保存临时更改
 
 暂存一些未完成的更改
 
@@ -134,7 +134,7 @@ $ git stash list
 $ git stash drop
 
 放弃所有最近stash的更改
-查阅历史
+## 查阅历史
 
 浏览并检查项目文件的发展
 
@@ -153,7 +153,7 @@ $ git diff [first-branch]...[second-branch]
 $ git show [commit]
 
 输出元数据以及特定commit的内容变化
-撤销commit
+## 撤销commit
 
 擦除错误并更改历史
 
@@ -164,7 +164,7 @@ $ git reset [commit]
 $ git reset --hard [commit]
 
 放弃所有更改并回到某个特定的commit
-同步更改
+## 同步更改
 
 注册一个远程的链接，交换仓库的版本历史
 
@@ -183,4 +183,5 @@ $ git push [remote] [branch]
 $ git pull
 
 下载书签历史并合并更改
+
 © 2016 GitHub Inc. All rights reserved.
