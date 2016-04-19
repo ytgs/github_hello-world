@@ -10,7 +10,7 @@
 
 -  ```master``` 分支
 - 一个被称为 ```feature（特性）```的分支 (因为我们要在这个分支上完成一个特别工作 ‘feature work’ )
--  ```feature``` 合并到 ```master```分支前的旅程
+-  ```feature``` 合并到 ```master```分支前的生命旅程
 
 ![a branch](branching.png)
 
