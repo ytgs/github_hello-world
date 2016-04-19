@@ -8,6 +8,6 @@
 * [提交修改（Commit）](make_a_commit.md)
 * [开启合并请求（Pull Request）](open_a_pull_request.md)
 * [完成合并请求（Pull Request）](merge_pull_request.md)
-* [结束](celebrate.md)
+* [结束课程](celebrate.md)
 * [附录1：GitHub Git 备忘单](github_git_bei_wang_dan.md)
 
