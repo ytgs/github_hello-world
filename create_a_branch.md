@@ -6,11 +6,11 @@
 
 每当基于``` master ```建立一个其他分支时，同时也就意味着在这个时点建立了一个```master```的拷贝或者叫做快照， 如果有其他人这时修改了``` master```分支，你可以将它们的修改合并到你的分支中.
 
-This diagram shows:
+以下图示显示了:
 
-- The ```master``` branch
-- A new branch called ```feature``` (because we’re doing ‘feature work’ on this branch)
-- The journey that ```feature``` takes before it’s merged into ```master```
+-  ```master``` 分支
+- 一个被称为 ```feature（特性）```的分支 (因为我们要在这个分支上完成一个特别工作 ‘feature work’ )
+-  ```feature``` 合并到 ```master```分支前的旅程
 
 ![a branch](branching.png)
 
