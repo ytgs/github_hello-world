@@ -1,4 +1,4 @@
-# 第五步：合并拉拽请求（Pull Request）
+# 第五步：合并请求（Pull Request）
 
 
 最后一步，合并```readme-edits```和```master```分支：
