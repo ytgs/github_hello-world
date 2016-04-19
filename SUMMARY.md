@@ -9,6 +9,7 @@
 * [启动拉拽请求（Pull Request）](open_a_pull_request.md)
 * [合并拉拽请求（Pull Request）](merge_pull_request.md)
 * [结束](celebrate.md)
+* [附录1：GitHub Git 备忘单](github_git_bei_wang_dan.md)
 
 
 
