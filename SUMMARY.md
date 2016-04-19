@@ -7,7 +7,7 @@
 * [建立分支（Branch）](create_a_branch.md)
 * [提交修改（Commit）](make_a_commit.md)
 * [开启合并请求（Pull Request）](open_a_pull_request.md)
-* [合并拉拽请求（Pull Request）](merge_pull_request.md)
+* [合并合并请求（Pull Request）](merge_pull_request.md)
 * [结束](celebrate.md)
 * [附录1：GitHub Git 备忘单](github_git_bei_wang_dan.md)
 
