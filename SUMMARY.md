@@ -6,11 +6,8 @@
 * [建立仓库（ Repository）](create_a_repository.md)
 * [建立分支（Branch）](create_a_branch.md)
 * [完成一次提交（Commit）](make_a_commit.md)
-* [启动拉拽请求（Pull Request）](open_a_pull_request.md)
+* [启动合并请求（Pull Request）](open_a_pull_request.md)
 * [合并拉拽请求（Pull Request）](merge_pull_request.md)
 * [结束](celebrate.md)
 * [附录1：GitHub Git 备忘单](github_git_bei_wang_dan.md)
-
-
-
 
