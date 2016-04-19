@@ -1,10 +1,10 @@
 # 第二步：建立分支（Branch）
 
-**Branching** is the way to work on different versions of a repository at one time.
+**分支**是实现同时对同一个仓库的不同版本进行操作的方法。
 
-By default your repository has one branch named ```master``` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to ```master```.
+默认情况下，仓库有一个```master```分支，同时它也是最终要完成的分支， 其他分支是用来进行试探编辑的，但最重要提交合并到```master```中.
 
-When you create a branch off the``` master ```branch, you’re making a copy, or snapshot, of ```master``` as it was at that point in time. If someone else made changes to the``` master``` branch while you were working on your branch, you could pull in those updates.
+每当基于``` master ```建立一个其他分支时，同时也就意味着在这个时点建立了一个```master```的拷贝或者叫做快照， 如果有其他人这时修改了``` master```分支，你可以将它们的修改合并到你的分支中.
 
 This diagram shows:
 
